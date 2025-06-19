@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirstStarAndroid</string>
+    <string name="username">Username</string>
+    <string name="enter_username_or_phone_number">Enter username or phone number</string>
+</resources>
